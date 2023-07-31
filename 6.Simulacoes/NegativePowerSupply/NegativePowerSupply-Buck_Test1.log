@@ -1,0 +1,21 @@
+Circuit: * \\brindfs01\eiem$\BRSILUC\EIEM\Projetos\Hw\Active\HighVoltageProbe\6.Simulacoes\NegativePowerSupply\NegativePowerSupply-Buck_Test1.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Mon Apr 17 15:45:52 2023
+Total elapsed time: 22.640 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 1436802
+traniter = 1436792
+tranpoints = 482855
+accept = 359175
+rejected = 123680
+matrix size = 31
+fillins = 2
+solver = Normal
+Matrix Compiler1: 2.68 KB object code size  0.9/0.4/[0.3]
+Matrix Compiler2: 2.88 KB object code size  0.3/0.4/[0.2]
+
